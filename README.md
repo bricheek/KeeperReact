@@ -1,2 +1,0 @@
-# KeeperReact
-Created with CodeSandbox
